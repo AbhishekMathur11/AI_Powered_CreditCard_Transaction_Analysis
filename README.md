@@ -1,6 +1,6 @@
 # AI-powered Customer Segmentation and Market Analysis
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 
 Welcome to the Intelligent Bank Marketing Program! This project, completed alongside Coursera, focuses on creating an advanced marketing strategy based on customer classification and segmentation using unsupervised learning techniques. By leveraging the power of AI, specifically the K-means clustering algorithm, we are able to segment customers into distinct categories. Furthermore, we employ the elbow method for optimizing the number of clusters and utilize Principal Component Analysis (PCA) to analyze the newly created principal components. 
 
@@ -60,7 +60,7 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+
 
 ## Acknowledgments
 
