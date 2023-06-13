@@ -37,7 +37,7 @@ To run this project locally or reproduce the results, ensure that you have the f
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/Intelligent-bank-marketing-program.git
+git clone [https://github.com/IronAvenger11-prog/](https://github.com/IronAvenger11-prog/Intelligent-bank-marketing-program)
 ```
 
 2. Navigate to the project directory:
