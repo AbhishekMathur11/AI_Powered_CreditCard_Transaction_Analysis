@@ -19,6 +19,10 @@ After the segmentation process, we identified four main customer clusters:
 ## Analysis and Insights
 
 To gain a comprehensive understanding of each customer group, we generated various types of graphs and visualizations. These plots provide valuable insights into the behavior and preferences of each cluster, allowing for targeted marketing strategies and personalized customer experiences.
+![image](https://github.com/IronAvenger11-prog/Intelligent-bank-marketing-program/assets/85229612/296cc231-c5ce-466d-a2b6-b170815b6224)
+
+![image](https://github.com/IronAvenger11-prog/Intelligent-bank-marketing-program/assets/85229612/c69c5352-ee6a-444c-8a57-23984e944a8d)
+
 
 ## Prerequisites
 
