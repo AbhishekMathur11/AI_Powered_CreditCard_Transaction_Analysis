@@ -59,7 +59,7 @@ jupyter notebook
 
 4. Execute the cells in the notebook to observe the customer segmentation and analysis.
 
-For detailed walkthrough, check the code : ()
+For detailed walkthrough, check the code : (https://github.com/IronAvenger11-prog/AI_Powered_CreditCard_Transaction_Analysis/blob/main/Marketing_Department_Solution.ipynb)
 
 
 ## Acknowledgments
@@ -71,6 +71,3 @@ We would like to express our gratitude to Coursera and the project instructors f
 - [K-means Clustering Algorithm](https://en.wikipedia.org/wiki/K-means_clustering)
 - [Principal Component Analysis (PCA)](https://en.wikipedia.org/wiki/Principal_component_analysis)
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
-
-Let's explore the world of AI-driven customer segmentation and make informed marketing decisions based on data-driven insights!
-
