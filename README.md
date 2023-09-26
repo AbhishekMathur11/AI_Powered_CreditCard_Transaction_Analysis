@@ -59,12 +59,7 @@ jupyter notebook
 
 4. Execute the cells in the notebook to observe the customer segmentation and analysis.
 
-## Contributing
-
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
-## License
-
+For detailed walkthrough, check the code : ()
 
 
 ## Acknowledgments
